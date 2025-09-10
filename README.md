@@ -31,3 +31,13 @@ This project helped me strengthen my knowledge of the Laravel MVC framework, dat
 ## 📌 Notes
 
 This project is for **learning purposes** and demonstrates basic social media functionality.  
+
+## Some Screenshots
+### Login Page
+![App Screenshot](https://raw.githubusercontent.com/erangamartyn/laravel-demo-project/refs/heads/main/public/images/loginPage.png)
+
+### Home Page
+  ![App Screenshot](https://raw.githubusercontent.com/erangamartyn/laravel-demo-project/refs/heads/main/public/images/homepage.png)
+
+### Profile Page
+ ![App Screenshot](https://raw.githubusercontent.com/erangamartyn/laravel-demo-project/refs/heads/main/public/images/profile_page.png)
